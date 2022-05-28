@@ -1,1 +1,6 @@
 theme: jekyll-theme-tactile
+
+name: jacris
+title: jacris Service
+description: A Content Reference Service for people using Github Pages
+url: script1000.github.io/jacris
