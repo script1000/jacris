@@ -2,3 +2,4 @@
 
 We saving script and style here to use for my website or people who using this.
 
+change view of branch to `gh-pages` to watch
